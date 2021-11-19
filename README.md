@@ -7,5 +7,6 @@ The next step was to find when every meme was most popular as well calculating h
 ## Analysis and visualization
 The goal of this project was to find whether meme are dying faster than they used to. If this were to be the case, we would expect to see a neagative correlation across time for their lifetime. However, this was not the case. The Pearson Coeffcient value was 0.0011429761584642048 with a p-value of 0.9866753220323162. While there was no long-term trends across time, there are statistically significant differences between some years and it would be interesting to look deeper into what caused said disparity. Here is the average lifetime of memes across years:
 
-![Average Lifetime of Memes](https://user-images.githubusercontent.com/35672096/142673326-a87bd532-d25e-4005-bb97-262e62497871.png)
+![Average Lifetime of Memes](https://user-images.githubusercontent.com/35672096/142673596-51b43fde-ff67-47ea-b9a8-501ae357047d.png)
+
 
